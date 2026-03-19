@@ -2,3 +2,5 @@ lion RED
 tiger
 leopard
 turtle
+GATOPERROO
+leopard amarillo    
